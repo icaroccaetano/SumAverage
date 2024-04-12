@@ -3,6 +3,7 @@ Calc the sum and average from the given numbers (3 to 10).
 
 # Using the program
 When the program starts, you need to give a number (3 to 10) that represents the numbers of inserts.
+If you enter a number of inserts that are not accepted, the program will ask again.
 
 After, it will ask the inserts and give the sum and the average.
 
